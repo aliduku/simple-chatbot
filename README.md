@@ -1,4 +1,4 @@
-# Conversational Chatbot using NLTK and Streamlit
+# Conversational Chatbot using NLTK and [streamlit](https://simple-chatbot-4bxrzneltmrftmsxz9akqr.streamlit.app/)
 
 This repository contains a simple conversational chatbot implemented using NLTK (Natural Language Toolkit) and Streamlit. The chatbot is built to respond to user input by comparing the similarity of the input with pre-defined responses using two different text representation techniques: Bag of Words (BOW) and Term Frequency-Inverse Document Frequency (TF-IDF).
 
