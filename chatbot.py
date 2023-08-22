@@ -12,6 +12,7 @@ import pandas as pd
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
 
 # Load dataset
 conversation_df = pd.read_excel("dialog_talk_agent.xlsx")
